@@ -1,8 +1,8 @@
 # Welcome to ISA web project
 
-## Project info
+<!--## Project info
 
-**URL**: https://lovable.dev/projects/4ed86e90-43ad-4f69-ad61-a81c04ac69d9
+**URL**: https://lovable.dev/projects/4ed86e90-43ad-4f69-ad61-a81c04ac69d9 -->
 
 <!--## How can I edit this code?
 
