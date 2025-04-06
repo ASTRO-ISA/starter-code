@@ -4,7 +4,7 @@
 
 **URL**: https://lovable.dev/projects/4ed86e90-43ad-4f69-ad61-a81c04ac69d9
 
-## How can I edit this code?
+<!--## How can I edit this code?
 
 There are several ways of editing your application.
 
@@ -48,7 +48,7 @@ npm run dev
 - Click on the "Code" button (green button) near the top right.
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Edit files directly within the Codespace and commit and push your changes once you're done. -->
 
 ## What technologies are used for this project?
 
@@ -60,7 +60,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+<!--## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/4ed86e90-43ad-4f69-ad61-a81c04ac69d9) and click on Share -> Publish.
 
@@ -70,4 +70,4 @@ Yes it is!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide) -->
