@@ -71,9 +71,27 @@ cd <THIS-REPO-NAME>
 # Step 3: use the command “code .” to open the repo in vs code
 
 Note: If "code ." is not working, then you can also open the folder manually
-// after cloning the repo on your system, you can work with the code in VS Code or preferred IDE
+
+# NOW
+# Create a New Branch
+git checkout -b <YOUR-NEW-BRANCH-NAME>
+
+# Now you can work with the code
+
+# Once you have made some changes to the code and think that this is done
+git add .
+git commit -m "Added some feature"
+git push -u origin <YOUR-BRANCH-NAME>
 ```
 
+# Now open a Pull Request on GitHub:
+- Go to the repo on GitHub.
+- Click “Compare & pull request”.
+- Set:
+  - Base branch: main
+  - Compare branch: <YOUR-BRANCH-NAME>
+- Add a title and description.
+- Click Create pull request.
 
 <!--## How can I deploy this project?
 
