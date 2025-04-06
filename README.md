@@ -84,7 +84,7 @@ git commit -m "Added some feature"
 git push -u origin <YOUR-BRANCH-NAME>
 ```
 
-# Now open a Pull Request on GitHub:
+## Now open a Pull Request on GitHub:
 - Go to the repo on GitHub.
 - Click “Compare & pull request”.
 - Set:
