@@ -1,4 +1,4 @@
-# Welcome to your ISA web project
+# Welcome to ISA web project
 
 ## Project info
 
