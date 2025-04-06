@@ -60,6 +60,21 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## How can I work with this project?
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <THIS-REPO-URL>
+
+# Step 2: Navigate to the project directory.
+cd <THIS-REPO-NAME>
+
+# Step 3: use the command “code .” to open the repo in vs code
+
+Note: If "code ." is not working, then you can also open the folder manually
+// after cloning the repo on your system, you can work with the code in VS Code or preferred IDE
+```
+
+
 <!--## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/4ed86e90-43ad-4f69-ad61-a81c04ac69d9) and click on Share -> Publish.
